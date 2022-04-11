@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "subject": "DBMS",
+      "topic": "Group by",
+      "time": "2022-04-07",
+      "importance": "very much",
+      "description": ".......................................",
+      "id": 1
+    },
+    {
+      "subject": "WEB DEV",
+      "topic": "react",
+      "time": "2022-03-07",
+      "importance": "very much",
+      "description": "...................................................",
+      "id": 2
+    },
+    {
+      "subject": "CN",
+      "topic": "topology",
+      "time": "2022-02-10",
+      "importance": "very",
+      "description": "..........................................",
+      "id": 3
+    },
+    {
+      "subject": "SE",
+      "topic": "loc",
+      "time": "2022-03-15",
+      "importance": "very",
+      "description": "................................................",
+      "id": 4
+    },
+    {
+      "subject": "akash",
+      "topic": "Variables",
+      "time": "2022-04-21",
+      "importance": "very much",
+      "description": "ggggggggggggggggggggg",
+      "id": 5
+    },
+    {
+      "subject": "fefdef",
+      "topic": "fsdfsdf",
+      "time": "2022-04-14",
+      "importance": "dsfsfsd",
+      "description": "sdff",
+      "id": 6
+    }
+  ]
+}
