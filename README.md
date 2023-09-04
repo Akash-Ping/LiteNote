@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+DEMO : https://lite-note-2-0-front-end.vercel.app/
+
+
 
 
 ## Available Scripts
